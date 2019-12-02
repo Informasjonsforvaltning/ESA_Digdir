@@ -1,5 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="autentiserings-tjeneste"
-    id="869b02c2-ec82-4736-9f82-28a7475eec75"
+    id="5d559900-ba30-4472-891c-1b9c79142a64"
     documentation="ID-porten gjør det mulig for brukerne dine å logge seg inn på offentlige tjenester. Med kjente elektroniske ID-er som MinID, BankID, Buypass og Commfides kan innbyggerne bruke påloggingsløsninger de kjenner fra før til å autentisere seg."/>

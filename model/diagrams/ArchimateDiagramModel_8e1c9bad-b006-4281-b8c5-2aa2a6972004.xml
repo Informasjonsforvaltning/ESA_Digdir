@@ -9,10 +9,10 @@
       name="Fellesløsninger"
       textAlignment="1">
     <bounds
-        x="72"
-        y="40"
+        x="60"
+        y="36"
         width="913"
-        height="140"/>
+        height="153"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5fd8418d-7cc8-4a1f-ab4a-b5115e629691">
@@ -56,7 +56,7 @@
           x="552"
           y="48"
           width="174"
-          height="55"/>
+          height="85"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_98f5dee9-fa44-4c2e-9539-5fdb3bf32691.xml#98f5dee9-fa44-4c2e-9539-5fdb3bf32691"/>
