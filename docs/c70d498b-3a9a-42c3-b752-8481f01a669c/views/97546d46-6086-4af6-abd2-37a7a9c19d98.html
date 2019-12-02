@@ -1,0 +1,338 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>FDF</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>FDF</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/97546d46-6086-4af6-abd2-37a7a9c19d98.png" alt="FDF" usemap="#97546d46-6086-4af6-abd2-37a7a9c19d98map"/>
+			   <map name="97546d46-6086-4af6-abd2-37a7a9c19d98map">
+				  		<area shape="rect" coords="1210,639,1330,694" href="../elements/2146e371-95ae-4a4c-8451-5786915edadf.html"  target="element">
+				  		<area shape="rect" coords="1210,553,1330,608" href="../elements/ca685dc0-583d-440f-873e-1ddda25478ac.html"  target="element">
+				  		<area shape="rect" coords="532,567,987,652" href="../elements/bc48653b-e9cd-407c-8f74-ac57300386a8.html"  target="element">
+				  		<area shape="rect" coords="1210,471,1330,526" href="../elements/c2a124b3-f09c-40e9-85bb-64542fb0c19a.html"  target="element">
+				  		<area shape="rect" coords="1210,387,1330,442" href="../elements/4920ad17-83a6-486f-85c3-0aa6934e2c7b.html"  target="element">
+				  		<area shape="rect" coords="934,105,1054,332" href="../elements/2e152a5f-ae88-45ca-8f97-5ecfa453f0b3.html"  target="element">
+				  		<area shape="rect" coords="538,459,982,496" href="../elements/84a42603-5819-41b8-bebc-5b873f6fcfc0.html"  target="element">
+				  		<area shape="rect" coords="280,105,400,160" href="../elements/cb7189f7-91b9-495b-b9da-68067040d18d.html"  target="element">
+				  		<area shape="rect" coords="275,183,395,238" href="../elements/be1a61e6-83b4-4994-bc39-b78552302351.html"  target="element">
+				  		<area shape="rect" coords="178,21,334,76" href="../elements/ffe33d43-f821-49f0-b504-096517f128af.html"  target="element">
+				  				<area shape="rect" coords="82,175,202,230" href="../elements/1a567d0e-43f3-49fd-bf63-7d2c41a149a7.html"  target="element">
+
+				  		<area shape="rect" coords="10,134,238,260" href="../elements/ff29d1b9-883b-4fc0-b51b-e4a65c2f22cf.html"  target="element">
+				  		<area shape="rect" coords="682,25,802,80" href="../elements/fab0d66e-2747-4165-8cc9-bd28fd4d5c08.html"  target="element">
+				  		<area shape="rect" coords="815,10,935,95" href="../elements/0969f192-5cf0-4bd3-8a38-3cc40c091484.html"  target="element">
+				  		<area shape="rect" coords="394,21,550,76" href="../elements/03b3ff87-b0cd-44a3-86ab-ca1ded1540f4.html"  target="element">
+				  		<area shape="rect" coords="778,118,910,332" href="../elements/39c3c437-ae43-41fc-9687-5f2189351d19.html"  target="element">
+				  		<area shape="rect" coords="442,333,562,388" href="../elements/e8533f07-06b8-47c6-bf4c-cc76e1c01c49.html"  target="element">
+				  				<area shape="rect" coords="454,183,634,220" href="../elements/869b02c2-ec82-4736-9f82-28a7475eec75.html"  target="element">
+
+				  		<area shape="rect" coords="418,135,743,315" href="../elements/1f9e8298-2099-4b8b-b20b-05ebc62643ec.html"  target="element">
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<textarea id="docsrc" style="display:none"></textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/1f9e8298-2099-4b8b-b20b-05ebc62643ec.html" target="element"> ID-porten </a> </td>
+											    <td> <a href="../elements/1f9e8298-2099-4b8b-b20b-05ebc62643ec.html" target="element" class="i18n-elementtype-Product"> </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/869b02c2-ec82-4736-9f82-28a7475eec75.html" target="element"> autentiseringstjeneste </a> </td>
+													    <td> <a href="../elements/869b02c2-ec82-4736-9f82-28a7475eec75.html" target="element" class="i18n-elementtype-BusinessService"> </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/e8533f07-06b8-47c6-bf4c-cc76e1c01c49.html" target="element"> eID-leverand&#248;r </a> </td>
+											    <td> <a href="../elements/e8533f07-06b8-47c6-bf4c-cc76e1c01c49.html" target="element" class="i18n-elementtype-BusinessRole"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/39c3c437-ae43-41fc-9687-5f2189351d19.html" target="element"> Maskinporten </a> </td>
+											    <td> <a href="../elements/39c3c437-ae43-41fc-9687-5f2189351d19.html" target="element" class="i18n-elementtype-Product"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/03b3ff87-b0cd-44a3-86ab-ca1ded1540f4.html" target="element"> sikker p&#229;logging til offentlige tjenester </a> </td>
+											    <td> <a href="../elements/03b3ff87-b0cd-44a3-86ab-ca1ded1540f4.html" target="element" class="i18n-elementtype-Capability"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/0969f192-5cf0-4bd3-8a38-3cc40c091484.html" target="element"> sikker identifisering av virksomheter </a> </td>
+											    <td> <a href="../elements/0969f192-5cf0-4bd3-8a38-3cc40c091484.html" target="element" class="i18n-elementtype-Capability"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/fab0d66e-2747-4165-8cc9-bd28fd4d5c08.html" target="element"> Tilgangstyring til API-er </a> </td>
+											    <td> <a href="../elements/fab0d66e-2747-4165-8cc9-bd28fd4d5c08.html" target="element" class="i18n-elementtype-Capability"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/ff29d1b9-883b-4fc0-b51b-e4a65c2f22cf.html" target="element"> Altinn Autorisasjon </a> </td>
+											    <td> <a href="../elements/ff29d1b9-883b-4fc0-b51b-e4a65c2f22cf.html" target="element" class="i18n-elementtype-Product"> </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/1a567d0e-43f3-49fd-bf63-7d2c41a149a7.html" target="element"> verifisere rolle-tilh&#248;righet </a> </td>
+													    <td> <a href="../elements/1a567d0e-43f3-49fd-bf63-7d2c41a149a7.html" target="element" class="i18n-elementtype-BusinessService"> </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/ffe33d43-f821-49f0-b504-096517f128af.html" target="element"> sikker p&#229;logging av ansatte </a> </td>
+											    <td> <a href="../elements/ffe33d43-f821-49f0-b504-096517f128af.html" target="element" class="i18n-elementtype-Capability"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/be1a61e6-83b4-4994-bc39-b78552302351.html" target="element">  </a> </td>
+											    <td> <a href="../elements/be1a61e6-83b4-4994-bc39-b78552302351.html" target="element" class="i18n-elementtype-BusinessCollaboration"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/cb7189f7-91b9-495b-b9da-68067040d18d.html" target="element"> Ansattporten </a> </td>
+											    <td> <a href="../elements/cb7189f7-91b9-495b-b9da-68067040d18d.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/84a42603-5819-41b8-bebc-5b873f6fcfc0.html" target="element"> brukerst&#248;tte FDF </a> </td>
+											    <td> <a href="../elements/84a42603-5819-41b8-bebc-5b873f6fcfc0.html" target="element" class="i18n-elementtype-BusinessService"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/2e152a5f-ae88-45ca-8f97-5ecfa453f0b3.html" target="element"> DPI </a> </td>
+											    <td> <a href="../elements/2e152a5f-ae88-45ca-8f97-5ecfa453f0b3.html" target="element" class="i18n-elementtype-Product"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/4920ad17-83a6-486f-85c3-0aa6934e2c7b.html" target="element"> Produkt-utvikling </a> </td>
+											    <td> <a href="../elements/4920ad17-83a6-486f-85c3-0aa6934e2c7b.html" target="element" class="i18n-elementtype-Capability"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/c2a124b3-f09c-40e9-85bb-64542fb0c19a.html" target="element"> Veilledning til innbyggere </a> </td>
+											    <td> <a href="../elements/c2a124b3-f09c-40e9-85bb-64542fb0c19a.html" target="element" class="i18n-elementtype-Capability"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/bc48653b-e9cd-407c-8f74-ac57300386a8.html" target="element"> Forvaltning, FMT </a> </td>
+											    <td> <a href="../elements/bc48653b-e9cd-407c-8f74-ac57300386a8.html" target="element" class="i18n-elementtype-BusinessService"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/ca685dc0-583d-440f-873e-1ddda25478ac.html" target="element"> Hjelp til forvaltningen </a> </td>
+											    <td> <a href="../elements/ca685dc0-583d-440f-873e-1ddda25478ac.html" target="element" class="i18n-elementtype-Capability"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/2146e371-95ae-4a4c-8451-5786915edadf.html" target="element"> Utbredelse / salg </a> </td>
+											    <td> <a href="../elements/2146e371-95ae-4a4c-8451-5786915edadf.html" target="element" class="i18n-elementtype-Capability"> </a> </td>
+											</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/ae5f3601-bc10-40ff-a495-f19fdf2eba99.html" target="element">  </a> </td>
+																		<td> <a href="../elements/ae5f3601-bc10-40ff-a495-f19fdf2eba99.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/1f9e8298-2099-4b8b-b20b-05ebc62643ec.html" target="element"> ID-porten </a> </td>
+																		<td> <a href="../elements/fab0d66e-2747-4165-8cc9-bd28fd4d5c08.html" target="element"> Tilgangstyring til API-er </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/1ef3ebf8-f727-4c12-8ae1-05008f883fd0.html" target="element">  </a> </td>
+																		<td> <a href="../elements/1ef3ebf8-f727-4c12-8ae1-05008f883fd0.html" target="element" class="i18n-elementtype-AggregationRelationship"></a> </td>
+																		<td> <a href="../elements/1f9e8298-2099-4b8b-b20b-05ebc62643ec.html" target="element"> ID-porten </a> </td>
+																		<td> <a href="../elements/84a42603-5819-41b8-bebc-5b873f6fcfc0.html" target="element"> brukerst&#248;tte FDF </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/dab45417-a67d-48cc-afe2-e2b579c02fdf.html" target="element">  </a> </td>
+																		<td> <a href="../elements/dab45417-a67d-48cc-afe2-e2b579c02fdf.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/1f9e8298-2099-4b8b-b20b-05ebc62643ec.html" target="element"> ID-porten </a> </td>
+																		<td> <a href="../elements/869b02c2-ec82-4736-9f82-28a7475eec75.html" target="element"> autentiseringstjeneste </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/4dc3d157-bbd7-4642-b7f1-7eff2d5be235.html" target="element">  </a> </td>
+																		<td> <a href="../elements/4dc3d157-bbd7-4642-b7f1-7eff2d5be235.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/1f9e8298-2099-4b8b-b20b-05ebc62643ec.html" target="element"> ID-porten </a> </td>
+																		<td> <a href="../elements/03b3ff87-b0cd-44a3-86ab-ca1ded1540f4.html" target="element"> sikker p&#229;logging til offentlige tjenester </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/bf0c2838-59ba-4c65-9604-fdf0329f88b6.html" target="element">  </a> </td>
+																				<td> <a href="../elements/bf0c2838-59ba-4c65-9604-fdf0329f88b6.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																				<td> <a href="../elements/869b02c2-ec82-4736-9f82-28a7475eec75.html" target="element"> autentiseringstjeneste </a> </td>
+																				<td> <a href="../elements/03b3ff87-b0cd-44a3-86ab-ca1ded1540f4.html" target="element"> sikker p&#229;logging til offentlige tjenester </a> </td>
+																			</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/2a72dba3-907b-453c-a397-a687cf5af081.html" target="element">  </a> </td>
+																		<td> <a href="../elements/2a72dba3-907b-453c-a397-a687cf5af081.html" target="element" class="i18n-elementtype-AssignmentRelationship"></a> </td>
+																		<td> <a href="../elements/e8533f07-06b8-47c6-bf4c-cc76e1c01c49.html" target="element"> eID-leverand&#248;r </a> </td>
+																		<td> <a href="../elements/869b02c2-ec82-4736-9f82-28a7475eec75.html" target="element"> autentiseringstjeneste </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/4e604031-6d07-47dc-ba7c-d600149b2da1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/4e604031-6d07-47dc-ba7c-d600149b2da1.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/39c3c437-ae43-41fc-9687-5f2189351d19.html" target="element"> Maskinporten </a> </td>
+																		<td> <a href="../elements/0969f192-5cf0-4bd3-8a38-3cc40c091484.html" target="element"> sikker identifisering av virksomheter </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/3bc6e291-48a2-441a-bbf6-d7bcbf59af40.html" target="element">  </a> </td>
+																		<td> <a href="../elements/3bc6e291-48a2-441a-bbf6-d7bcbf59af40.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/39c3c437-ae43-41fc-9687-5f2189351d19.html" target="element"> Maskinporten </a> </td>
+																		<td> <a href="../elements/fab0d66e-2747-4165-8cc9-bd28fd4d5c08.html" target="element"> Tilgangstyring til API-er </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/c6d626c0-2897-474d-b986-1ce47d10333c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/c6d626c0-2897-474d-b986-1ce47d10333c.html" target="element" class="i18n-elementtype-AggregationRelationship"></a> </td>
+																		<td> <a href="../elements/39c3c437-ae43-41fc-9687-5f2189351d19.html" target="element"> Maskinporten </a> </td>
+																		<td> <a href="../elements/84a42603-5819-41b8-bebc-5b873f6fcfc0.html" target="element"> brukerst&#248;tte FDF </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/8bbe4059-314c-4b89-8408-ee7e9e8e2941.html" target="element">  </a> </td>
+																		<td> <a href="../elements/8bbe4059-314c-4b89-8408-ee7e9e8e2941.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/ff29d1b9-883b-4fc0-b51b-e4a65c2f22cf.html" target="element"> Altinn Autorisasjon </a> </td>
+																		<td> <a href="../elements/1a567d0e-43f3-49fd-bf63-7d2c41a149a7.html" target="element"> verifisere rolle-tilh&#248;righet </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/2cda5395-76b3-43ba-b82b-12c411ab396d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/2cda5395-76b3-43ba-b82b-12c411ab396d.html" target="element" class="i18n-elementtype-AssignmentRelationship"></a> </td>
+																		<td> <a href="../elements/be1a61e6-83b4-4994-bc39-b78552302351.html" target="element">  </a> </td>
+																		<td> <a href="../elements/869b02c2-ec82-4736-9f82-28a7475eec75.html" target="element"> autentiseringstjeneste </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/8d293a94-2ff0-4cdb-b814-a2a0d6ec6d9f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/8d293a94-2ff0-4cdb-b814-a2a0d6ec6d9f.html" target="element" class="i18n-elementtype-AssignmentRelationship"></a> </td>
+																		<td> <a href="../elements/be1a61e6-83b4-4994-bc39-b78552302351.html" target="element">  </a> </td>
+																		<td> <a href="../elements/1a567d0e-43f3-49fd-bf63-7d2c41a149a7.html" target="element"> verifisere rolle-tilh&#248;righet </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/196bbb15-b8c9-4802-a984-f667864c83b0.html" target="element">  </a> </td>
+																		<td> <a href="../elements/196bbb15-b8c9-4802-a984-f667864c83b0.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/cb7189f7-91b9-495b-b9da-68067040d18d.html" target="element"> Ansattporten </a> </td>
+																		<td> <a href="../elements/ffe33d43-f821-49f0-b504-096517f128af.html" target="element"> sikker p&#229;logging av ansatte </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/577be78b-7548-4acc-821d-8b518b20b1de.html" target="element">  </a> </td>
+																		<td> <a href="../elements/577be78b-7548-4acc-821d-8b518b20b1de.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/84a42603-5819-41b8-bebc-5b873f6fcfc0.html" target="element"> brukerst&#248;tte FDF </a> </td>
+																		<td> <a href="../elements/c2a124b3-f09c-40e9-85bb-64542fb0c19a.html" target="element"> Veilledning til innbyggere </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/1f2b3d2b-b1a5-4698-b93b-01339f29f3c7.html" target="element">  </a> </td>
+																		<td> <a href="../elements/1f2b3d2b-b1a5-4698-b93b-01339f29f3c7.html" target="element" class="i18n-elementtype-AggregationRelationship"></a> </td>
+																		<td> <a href="../elements/2e152a5f-ae88-45ca-8f97-5ecfa453f0b3.html" target="element"> DPI </a> </td>
+																		<td> <a href="../elements/84a42603-5819-41b8-bebc-5b873f6fcfc0.html" target="element"> brukerst&#248;tte FDF </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/0dd59226-e19d-4d4b-b3de-23937b5c0b08.html" target="element">  </a> </td>
+																		<td> <a href="../elements/0dd59226-e19d-4d4b-b3de-23937b5c0b08.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/bc48653b-e9cd-407c-8f74-ac57300386a8.html" target="element"> Forvaltning, FMT </a> </td>
+																		<td> <a href="../elements/2146e371-95ae-4a4c-8451-5786915edadf.html" target="element"> Utbredelse / salg </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/8a4e062b-f9fd-4a7b-826b-fc1996fc3287.html" target="element">  </a> </td>
+																		<td> <a href="../elements/8a4e062b-f9fd-4a7b-826b-fc1996fc3287.html" target="element" class="i18n-elementtype-RealizationRelationship"></a> </td>
+																		<td> <a href="../elements/bc48653b-e9cd-407c-8f74-ac57300386a8.html" target="element"> Forvaltning, FMT </a> </td>
+																		<td> <a href="../elements/ca685dc0-583d-440f-873e-1ddda25478ac.html" target="element"> Hjelp til forvaltningen </a> </td>
+																	</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
