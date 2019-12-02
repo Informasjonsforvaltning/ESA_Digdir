@@ -5,7 +5,7 @@
 For å importere modellen til din lokale installasjon av Archi, kan du følge denne oppskriften:
 ### Installasjon av programvare
 *   Last ned og installer [Archi](http://archimatetool.com/download) for din plattform
-*   Last ned og installer [Archi's Model Repository Collaboration Plugin](https://www.archimatetool.com/plugins)
+*   Last ned og installer [coArchi – Model Collaboration for Archi](https://www.archimatetool.com/plugins)
 
 ### Åpne modellen i Archi
 1.  Velg Collaboration-> Import remote model to workspace
