@@ -1,5 +1,5 @@
 # ESA_Digdir
-Enterprise Architecture (SA) for Digdir
+Enterprise Strategic Architecture (ESA) for Digdir
 
 ## Instruksjoner
 For å importere modellen til din lokale installasjon av Archi, kan du følge denne oppskriften:
