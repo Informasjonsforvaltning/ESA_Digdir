@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Avtale med eID-leverandører"
-    id="d9002745-d946-48da-b815-096b531d944b"/>
+    id="d9002745-d946-48da-b815-096b531d944b"
+    documentation="ID-porten har avtale med 3 markedsleverandører av eID-tjenester på høyt sikkerhetsnivå (nivå-4)"/>
