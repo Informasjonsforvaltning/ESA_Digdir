@@ -6,7 +6,13 @@ For å publisere dine endringer rett på master-branchen i dette repository, må
 Først må du installere verktøy og plugin som beskrevet i [README.md](README.md)
 
 ### Jobbe med modellen i Archi
-Inn til videre er det ikke støtte for branching i Archi, dermed må du gjøre følgende når du skal oppdatere modellen
+Inn til videre jobber vi mot master-branch.
+
+#### Commit
+1.  Etter at du har gjort endringer, lagre disse på vanlig måte i Archi, feks CTLR+s
+2.  Velg Collaboration->Commit Changes.
+3.  Fyll ut feltene, bruk en fornuftig Commit message
+4.  Trykk Ok
 
 #### Oppdatere HTML-rapporten
 Når du har gjort vesentlige endringer i modellen, må du oppdatere HTML-rapporten. (Dette er en read-only html-versjon av modellen, som interessenter kan klikke rundt i.)
@@ -14,12 +20,7 @@ Når du har gjort vesentlige endringer i modellen, må du oppdatere HTML-rapport
 2. Velg docs-mappa i prosjektet.
 3. Trykk OK
 
-Docs-mappa finner du lettest ved å finne Main->File i Properties-fanen for modellen. Erstatt ".git\temp.archimate" med "docs". Du vil få advarsel om at du overskriver eksisterende innhold. Det er ok, så trykk "Yes" i dialogen.
-#### Commit
-1.  Etter at du har gjort endringer, lagre disse på vanlig måte i Archi, feks CTLR+s
-2.  Velg Collaboration->Commit Changes.
-3.  Fyll ut feltene, bruk en fornuftig Commit message
-4.  Trykk Ok
+Docs-mappa finner du lettest ved å finne Main->File i Properties-fanen for modellen. Erstatt ".git\temp.archimate" med "docs". Du vil få advarsel om at du overskriver eksisterende innhold. Det er ok, så trykk "Yes" i dialogen. Hugså utføre commit etter at HTML-rapporten er oppdatert.
 
 #### Publisere endringer til Github
 1.  Etter at du har committet endringene, vil du publisere disse til Github
