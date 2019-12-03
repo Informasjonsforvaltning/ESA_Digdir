@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisasjons-tjeneste"
+    id="5bbe72d9-cb55-40a8-963f-192f08e9adfb"
+    documentation="Autorisasjonstjenesten i ID-porten brukes både for å realisere langt-levende innlogginer i mobil-apper og for at API-tilbydere kan begrense utlevering av data til innlogget innbygger (dataminimering).   Internasjonale standarder (oauth2) ligger til grunn for funksjonaliteten."/>
