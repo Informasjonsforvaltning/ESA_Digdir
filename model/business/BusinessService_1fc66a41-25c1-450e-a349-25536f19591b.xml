@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="autentiserings-tjeneste (MP)"
+    id="1fc66a41-25c1-450e-a349-25536f19591b"
+    documentation="Maskinporten er ei løysing for tilgangsstyring for verksemder som utveksler data. Løysinga garanterer identiteten mellom verksemder, og sørger for maskin-til-maskin autentisering."/>

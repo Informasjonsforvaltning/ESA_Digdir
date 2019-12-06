@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorisasjons-tjeneste (MP)"
+    id="5ea262e9-e14f-430c-8b59-c61699da5e09"
+    documentation="Autorisasjonstjenesten i Maskinporten kan brukes til å tilgangstyre API-er på organisasjonsnivå.  I samspill med Altinn Autorisasjon er det også mulig for API-konsumenter å delegere en API-tilgang videre til en systemlevereandør - dette mønsteret implementerer eOppslag referansearkitektur. "/>

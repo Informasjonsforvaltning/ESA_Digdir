@@ -65,18 +65,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="7ee22ca0-0bc7-4b37-98fd-1a94923b5049">
-    <bounds
-        x="668"
-        y="520"
-        width="148"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_0969f192-5cf0-4bd3-8a38-3cc40c091484.xml#0969f192-5cf0-4bd3-8a38-3cc40c091484"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="15574684-f516-4549-ab6b-0ab57d22591d">
     <bounds
         x="368"
@@ -86,18 +74,6 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_ffe33d43-f821-49f0-b504-096517f128af.xml#ffe33d43-f821-49f0-b504-096517f128af"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="8b743676-e72d-4ae4-95df-15fe3a596ad7">
-    <bounds
-        x="518"
-        y="620"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_03b3ff87-b0cd-44a3-86ab-ca1ded1540f4.xml#03b3ff87-b0cd-44a3-86ab-ca1ded1540f4"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -134,5 +110,29 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_c2a124b3-f09c-40e9-85bb-64542fb0c19a.xml#c2a124b3-f09c-40e9-85bb-64542fb0c19a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c7e74783-df12-4860-bb62-1e55d64c7aee">
+    <bounds
+        x="672"
+        y="516"
+        width="144"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_229c3482-90d7-4d0e-b020-4192517385c1.xml#229c3482-90d7-4d0e-b020-4192517385c1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3f32686e-f00b-426d-9eef-ae881df20b80">
+    <bounds
+        x="518"
+        y="620"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_8bcd7b71-94ef-44fd-b58e-01e7abc0bdc5.xml#8bcd7b71-94ef-44fd-b58e-01e7abc0bdc5"/>
   </children>
 </archimate:ArchimateDiagramModel>
