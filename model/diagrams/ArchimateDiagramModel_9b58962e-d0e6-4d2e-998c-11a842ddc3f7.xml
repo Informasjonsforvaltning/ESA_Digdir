@@ -12,14 +12,14 @@
         x="60"
         y="48"
         width="400"
-        height="229"/>
+        height="529"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="ec2c25a1-80bc-4e89-8346-b805cb4fc33b">
       <bounds
           x="216"
-          y="156"
-          width="120"
+          y="240"
+          width="144"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -29,9 +29,9 @@
         xsi:type="archimate:DiagramModelReference"
         id="cbecfa6c-870a-49c1-ae8a-6c134a320027">
       <bounds
-          x="66"
-          y="156"
-          width="120"
+          x="36"
+          y="240"
+          width="150"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -41,9 +41,9 @@
         xsi:type="archimate:DiagramModelReference"
         id="fcb72a12-ae94-4c43-b1fa-d5efa9415df2">
       <bounds
-          x="66"
+          x="36"
           y="56"
-          width="120"
+          width="150"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -54,12 +54,24 @@
         id="e014617e-e186-4eb8-8356-a0fff69f31ee">
       <bounds
           x="216"
-          y="56"
-          width="120"
+          y="156"
+          width="144"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_320b8b72-c6cb-4bf5-b813-6e42e1a98c66.xml#320b8b72-c6cb-4bf5-b813-6e42e1a98c66"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="fdc44e47-7817-43b4-b480-74af8c8aa40a">
+      <bounds
+          x="216"
+          y="56"
+          width="144"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_73ade462-d077-46c9-911d-ca60eac21d2e.xml#73ade462-d077-46c9-911d-ca60eac21d2e"/>
     </children>
   </children>
   <children
@@ -72,5 +84,16 @@
         y="48"
         width="400"
         height="229"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="0ec6c7e1-588b-4333-a4ec-6c85fcc231fb"
+        textAlignment="1"
+        content="Steg 2">
+      <bounds
+          x="93"
+          y="84"
+          width="185"
+          height="80"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
