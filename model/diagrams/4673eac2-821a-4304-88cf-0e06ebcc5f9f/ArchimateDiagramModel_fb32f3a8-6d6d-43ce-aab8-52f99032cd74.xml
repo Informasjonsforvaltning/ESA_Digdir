@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Services_Informasjonsforvaltning"
+    name="Informasjonsforvaltning"
     id="fb32f3a8-6d6d-43ce-aab8-52f99032cd74">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
