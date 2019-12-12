@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Register for digitale foretaksadresser og dokumentype standarder. SMP i Peppol-nettverket i Norge. "
+    id="223"
+    documentation="Evne til på forespørsel å levere de nødvendige metadata (forsendelseskanal/adresse og dokumenttype) for foretaks-til-foretaks-kommunikasjon innenfor Peppol-nettverket. I ELMA finner du bl.a. en oversikt over alle virksomheter i Norge som kan motta elektroniske fakturaer i henhold til EHF-standarden."/>

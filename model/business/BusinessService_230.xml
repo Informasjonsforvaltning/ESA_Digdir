@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonsmodeller"
+    id="230"
+    documentation="Felles informasjonsmodell-katalog er en utvidelse av Felles datakatalog for å skape en oversikt over informasjonsmodeller. I katalogen finner man også hvilke API’er informasjonsmodellene tilhører."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innhente og registrere samtykke"
+    id="208"
+    documentation="Altinn Samtykke hjelper deg med å innhente samtykke fra personer og organisasjoner. Du kan dermed få midlertidig innsyn i data det offentlige har innhentet tidligere."/>

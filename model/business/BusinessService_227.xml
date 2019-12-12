@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasettkatalog"
+    id="227"
+    documentation="Felles Datasettkatalog er en løsning som gir oversikt over datasett i offentlig sektor. enten de er offentlige åpne data eller begrenset offentlighet. Katalogen adresserer behovet for å oppdage datasett. evaluere om datasettene kan benyttes i den aktuelle konteksten og tilgang til datasett gjennom API-er."/>

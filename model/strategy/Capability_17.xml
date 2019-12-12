@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilby datauttrekk fra fagsystemer og utsnitt av register gjennom  åpne API-er."
+    id="17"
+    documentation="Evne til å tilby data fra offentlige virksomheter gjennom et API med høy tilgjengelighetEvne til å tilby metadata til data.norge.no"/>

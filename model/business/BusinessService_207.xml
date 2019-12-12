@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grensesnitt og dataflyt og er i stor grad et støtteprodukt til Tjenester. (Er også bygd på teknologi (BizTalk) som vi ønsker å fase ut)"
+    id="207"
+    documentation="Støtteprodukt i Altinn-plattformen"/>

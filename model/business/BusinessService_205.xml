@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gir brukerne tilgang til opplysninger som allerede finnes om dem i virksomhetens systemer."
+    id="205"
+    documentation="Med løsningen kan du gi brukerne dine tilgang til egne data som du har lagret i saksbehandlingssystem eller saksarkiv."/>

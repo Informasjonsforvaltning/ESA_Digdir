@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital post- og utskriftstjeneste"
+    id="217"
+    documentation="Felles løsning for offentlige virksomheter for å sende brev digitalt til innbygger. Løsningen omfatter en oppslagstjeneste og register for kontaktinformasjon. transportinfrastruktur og digitale postkasser samt mulighet for papirbrev til de innbyggere som ikke kan eller ønsker å motta digitale brev"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meldingsformidling og deling av data ved forsendelse. basert på mønsteret “eMelding"
+    id="204"
+    documentation="Formidling har fått økt bruk de siste årene grunnet behovene for eMelding-basert informasjonsutveksling. Bl.a er eiendomshandelen blitt digitalisert med bidrag fra dette produktet. Formidling er også benyttet som et infrastrukturprodukt for Integrasjonspunktet til Difi ifb utveksling av dokumenter mellom statlige virksomheter."/>

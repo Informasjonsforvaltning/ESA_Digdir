@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sende varsel gjennom definerte kanaler til innbyggere eller næringsliv"
+    id="13"
+    documentation="Evne til å sende ut varsel på SMS og/eller e-post til innbyggere og alle typer virksomheter. ved å bebyte kontakt- og reservasjonsregisteret (KRR) for innbyggere og varslingsadresser fra Enhetsregisteret for virksomheter"/>

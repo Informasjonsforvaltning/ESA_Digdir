@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgang til Altinns tjenester gjennom definerte APIer (endrer sanssynligvis navn til Altinn API forvaltning)"
+    id="200"
+    documentation="Med Altinn API kan du lage løsninger som fungerer utenfor Altinn. men samtidig benytte Altinn sine tekniske komponenter. Altinn API snakker med systemene dine og du har kontroll på brukeropplevelsen."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Varsling på SMS eller e-post"
+    id="212"
+    documentation="Ved behov for å varsle innbyggere. virksomheter og organisasjoner på SMS eller e-post. kan løsningen Varsling benyttes. Brukeren logger seg deretter inn for å lese informasjonen du har sendt."/>

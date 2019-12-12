@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OppslagstjenesteRegisterforvaltning"
+    id="238"
+    documentation="KRR gir deg mobilnummer og e-post til innbyggerne i Norge slik at du kan sende post og varslinger digitalt. Du ser hvem som har reservert seg mot digital kommunikasjon. hvilken digital postkasse de eventuelt har valgt. og hvilken språkpreferanse de har.   Innbygger vedlikeholder opplysningene gjennom innlogging i ID-porten"/>

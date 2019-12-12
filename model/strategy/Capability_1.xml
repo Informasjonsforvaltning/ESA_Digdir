@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gi tilgang til Altinntjenestene gjennom programmerbare grensesnitt"
+    id="1"
+    documentation="Evne til å tilgjengeliggjøre ALTINN-tjenestene gjennom programerbart grensesnitt (API) slik at tjenesteeiere kan benytte disse for å realisere egne løsninger."/>

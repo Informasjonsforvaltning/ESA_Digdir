@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Altinn Styring av tilgang"
+    id="210"
+    documentation="Med denne løsningen styrer du hvem som kan bruke en digital tjeneste. Du kan bruke den til å styre tilganger for privatpersoner og til å gi tilganger basert på rettigheter en person har på vegne av en virksomhet."/>

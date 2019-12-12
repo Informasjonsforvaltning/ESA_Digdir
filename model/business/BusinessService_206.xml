@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Platform as a service (PaaS)"
+    id="206"
+    documentation="Tilby tilgang til funksjoner i sky som ikke er standard funksjoner i Altinn. som tjenesteeiere kan ta i bruk Altinn Cloud vil da kunne tilbys som en PaaS. der tjenesteeierne selv finansierer bruk avhengig av belastning. "/>
