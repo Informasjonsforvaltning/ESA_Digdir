@@ -1,5 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilby digitale addresser"
-    id="66"
-    documentation="Evne til å tilby digitale adresser (endepunkt) til tjenester som er eksponert gjennom API-er (eOppslag)."/>

@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f87332d2-8324-4e45-843e-ca6179668273"
-      targetConnections="37fef632-472f-4ccd-aa81-c38e765b444b 97cb2c97-ce51-41e9-89cc-6aa6b75735dd d7295430-1f64-4dd7-a242-d2eeaf941607 af77be72-0192-49e8-94cd-165a7bd661d7 9b4db425-b979-4843-8c02-04703bba74a6 53272ec0-7ef2-469a-bcd9-bda9e736bc90 f1d7c49e-f323-4171-962d-a92240e6b842 3da72390-4b4a-4407-8e7a-f4aede0e0951">
+      targetConnections="37fef632-472f-4ccd-aa81-c38e765b444b 97cb2c97-ce51-41e9-89cc-6aa6b75735dd d7295430-1f64-4dd7-a242-d2eeaf941607 9b4db425-b979-4843-8c02-04703bba74a6 f1d7c49e-f323-4171-962d-a92240e6b842">
     <bounds
         x="372"
         y="156"
@@ -105,27 +105,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="12ba979e-3218-46df-99b6-92d0ad789261">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="af77be72-0192-49e8-94cd-165a7bd661d7"
-        source="12ba979e-3218-46df-99b6-92d0ad789261"
-        target="f87332d2-8324-4e45-843e-ca6179668273">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_dc3e17fc-f232-4078-b2b9-ac7ca93b70b3.xml#dc3e17fc-f232-4078-b2b9-ac7ca93b70b3"/>
-    </sourceConnections>
-    <bounds
-        x="816"
-        y="374"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Product"
-        href="Product_9877d489-11a4-4cf9-9b52-03a7ba79b6cf.xml#9877d489-11a4-4cf9-9b52-03a7ba79b6cf"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="e9520bfd-a02b-4470-8fe4-b397d6a7b5b9">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -156,27 +135,6 @@
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_253ff783-0280-4929-8783-5fd1fbfc47dc.xml#253ff783-0280-4929-8783-5fd1fbfc47dc"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="cf4a9c4c-dccf-4cda-9c41-dddaf37103e7">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="53272ec0-7ef2-469a-bcd9-bda9e736bc90"
-        source="cf4a9c4c-dccf-4cda-9c41-dddaf37103e7"
-        target="f87332d2-8324-4e45-843e-ca6179668273">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_4dc813c2-6654-452d-b8f7-f4eb30a7dc50.xml#4dc813c2-6654-452d-b8f7-f4eb30a7dc50"/>
-    </sourceConnections>
-    <bounds
-        x="1032"
-        y="252"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Product"
-        href="Product_96aad7a9-6d58-46bf-a59b-abcaf392d632.xml#96aad7a9-6d58-46bf-a59b-abcaf392d632"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -222,27 +180,6 @@
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_e93c9f2c-bed3-4d6b-a773-1a0f177dacf8.xml#e93c9f2c-bed3-4d6b-a773-1a0f177dacf8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="bc1ee8cc-9427-4558-bb34-ea4e6d94dc7d">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3da72390-4b4a-4407-8e7a-f4aede0e0951"
-        source="bc1ee8cc-9427-4558-bb34-ea4e6d94dc7d"
-        target="f87332d2-8324-4e45-843e-ca6179668273">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_a3d1acb1-a9bd-4fb1-a523-1ee81296cb0b.xml#a3d1acb1-a9bd-4fb1-a523-1ee81296cb0b"/>
-    </sourceConnections>
-    <bounds
-        x="204"
-        y="468"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Product"
-        href="Product_f97bedc0-0734-4844-980e-926b04eee7d8.xml#f97bedc0-0734-4844-980e-926b04eee7d8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
